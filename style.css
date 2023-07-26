@@ -1,0 +1,28 @@
+.tow{
+    width: 400px !important;
+    margin: 20px auto;
+    font-size: 20px !important;
+    color: black !important;
+    background-color: white !important;
+    border: none !important;
+    position: relative;
+    text-indent:-200000px ;
+}
+.tow::after{
+    content: "el zero";
+    position: absolute;
+    text-indent: 0;
+    left: 190px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
